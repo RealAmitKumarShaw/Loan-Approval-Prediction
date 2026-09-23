@@ -13,6 +13,17 @@ This project analyzes loan application data and builds machine learning classifi
 
 **Workflow:** Data Understanding → Data Cleaning → EDA → Visualization → Feature Engineering → Model Training → Evaluation → Prediction → Streamlit Application
 
+## Streamlit Application
+
+The project includes an interactive Streamlit application for predicting loan approval status based on applicant financial and personal information.
+
+## Live Demo
+
+The application is deployed on Render.
+
+🔗 **Live Application:**  
+https://loan-approval-prediction-7ch0.onrender.com
+
 ## Internship Project Context
 
 This project was developed as part of the **IBM SkillsBuild Data Analytics with AI Internship 2026**. The project applies data analytics, exploratory data analysis, predictive analytics, machine learning, and interactive visualization concepts to a loan approval classification problem.
