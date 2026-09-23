@@ -2,8 +2,7 @@
 
 ### IBM SkillsBuild Data Analytics with AI Internship 2026
 
-**Author:** Amit Kumar Shaw  
-**Internship ID:** IBMUEDA1168  
+**Author:** Amit Kumar Shaw    
 **Trainer:** Mr. Kartik Hooda  
 **Institution:** Centurion University of Technology & Management  
 **Domain:** Data Analytics / Machine Learning
@@ -137,7 +136,6 @@ IBM project/
 **Amit Kumar Shaw**
 
 - **Internship:** IBM SkillsBuild Data Analytics with AI Internship 2026
-- **Internship ID:** IBMUEDA1168
 - **Trainer:** Mr. Kartik Hooda
 - **Institution:** Centurion University of Technology & Management
 - **Domain:** Data Analytics / Machine Learning
