@@ -111,8 +111,8 @@ IBM project/
 │   ├── feature_names.pkl
 │   └── loan_approval_model.pkl
 ├── Notebooks/
-│   └── Loan_Approval_Prediction.ipynb
-├── Loan_Approval_Project_Report.docx
+│   └── AmitKumarShaw_LoanApprovalPrediction.ipynb
+├── AmitKumarShaw_LoanApprovalPrediction.docx
 ├── app.py
 ├── README.md
 ├── requirements.txt
